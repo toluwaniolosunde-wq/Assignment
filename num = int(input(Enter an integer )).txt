@@ -1,0 +1,17 @@
+num = int(input("Enter an integer: "))
+
+# Check if num is even or odd
+if num % 2 == 0:
+    print(f"{num} is even")
+else:
+    print(f"{num} is odd")
+
+
+num= int(input("Enter an integer: "))
+if num % 2 == 0:
+     
+
+print(f"{num} is even")
+else:
+
+print(f"{num} is odd")
